@@ -1,5 +1,5 @@
 # django-heroku-api-flutter-stack
-Latest Django, DRF and Flutter quick start project.
+Latest Django ready to deploy on Heroku + DRF and a Flutter quick start project.
 
 ## Welcome to the "Should I use this template to start my project" Quiz:
 - I want Django and DRF to build a site + API, hosted on Heroku
